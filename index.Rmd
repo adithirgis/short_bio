@@ -1,0 +1,78 @@
+---
+title: "Adithi R. Upadhya"
+image: "avatar.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/AdithiUpadhya"
+  - label: GitHub
+    url: "https://github.com/adithirgis"
+  - label: Email
+    url: "adithiru095@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Adithi R. Upadhya is a Geoinformatics graduate with an interdisciplinary research background. Enthusiastic R, C++ and Python developer. Worked on mobile monitoring of air quality in Bangalore. Current role: Geospatial Data Analyst at ILK 
+Labs. Interested in machine learning, artificial intelligence, environmental issues and spatial science.
+
+## Education
+
+**Bharati Vidyapeeth Institute of Environment Education and Research** | Pune, India
+
+M.Sc Geoinformatics | 2016 - 2018
+
+**Sri Sathya Sai Institute of Higher Learning ** | Anantapur, India
+
+B.Sc in Physics | 2013 - 2016
+
+## Experience
+
+**ILK Labs** | Geospatial Data Analyst | October 2018 - Present
+
+**Sri Ramachandra Institute of Higher Education and Research** | Analyst and Instructor | 2021 - Present
+
+**Asian Nature Conservation Foundation** | GIS Consultant | 2020 - 2021
+
+**ILK Labs, New York Times** | Consultant | 2019
+
+**National Center for Polar and Ocean Research** | Intern | 2018
+
+**Bharati Vidyapeeth Institute of Environment Education and Research, WAi Technologies** | Master Thesis and Intern | 2017
+
+## Volunteer and Non-Profit Experience
+
+Peer reviewer for **Journal of Open-Source Software**
+
+Moderating and conducting Incubator on Strategies to build a strong Asian R community at **useR! 2021**
+
+Founder and Co-organiser of **R-Ladies Bangalore**
+
+Volunteer of **Bangpypers** (Bangalore Python users' group) and PyCon India 2021
+
+Global organising team for Sponsorship, Program and Content team and part of Code of Conduct Response team for the **useR! 2021**
+
+Facilitator of Asian Cohort of **R4DS book club**
+
+Co-hosted a live Q and A session - Teaching for **rstudio::global(2021)**, chair for Keynote at **useR! 2021**
+
+## Software packages 
+
+Built **polluchek** | under review Journal of Open Source Software | 2021
+
+Maintain **ropenaq** | rOpenSci | 2021 
+
+Built **mmaqshiny** | CRAN, Journal of Open Source Software | 2020
+
+## Awards and Honors 
+
+rstudio::global(2021) Diversity Scholar | 2021
+
+R@IISA Conference Travel Award | 2019
+
+Primer in Methods and Ecological Research (PRiMER) Sponsored by ILK Labs | 2019
+
+For undergraduate degree at Sri Sathya Sai Institute of Higher Learning received Gold Medal | 2016
+
+Indian Academy of Sciences Summer Research Fellowship Program | 2015
