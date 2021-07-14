@@ -1,2 +1,3 @@
-# short_bio
-Short Personal Website
+# Short Personal Website
+
+- Built using the postcard package in R. 
