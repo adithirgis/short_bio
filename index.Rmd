@@ -29,13 +29,13 @@ B.Sc in Physics | 2013 - 2016
 
 ## Experience
 
-**ILK Labs** | Geospatial Data Analyst | October 2018 - Present
+[**ILK Labs**](https://www.ilklabs.com/about-us/team) | Geospatial Data Analyst | October 2018 - Present
 
 **Sri Ramachandra Institute of Higher Education and Research** | Analyst and Instructor | 2021 - Present
 
 **Asian Nature Conservation Foundation** | GIS Consultant | 2020 - 2021
 
-**ILK Labs, New York Times** | Consultant | 2019
+[**ILK Labs, New York Times**](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html?smtyp=cur&smid=tw-nytimes&s=08) | Consultant | 2019
 
 **National Center for Polar and Ocean Research** | Intern | 2018
 
@@ -43,36 +43,36 @@ B.Sc in Physics | 2013 - 2016
 
 ## Volunteer and Non-Profit Experience
 
-Peer reviewer for **Journal of Open-Source Software**
+Peer reviewer for [**Journal of Open-Source Software**](https://joss.theoj.org/papers/reviewed_by/@adithirgis)
 
-Moderating and conducting Incubator on Strategies to build a strong Asian R community at **useR! 2021**
+Moderating and conducting Incubator on Strategies to build a strong Asian R community at [**useR! 2021**](https://user2021.r-project.org/join/)
 
-Founder and Co-organiser of **R-Ladies Bangalore**
+Founder and Co-organiser of [**R-Ladies Bangalore**](https://twitter.com/RLadiesBLR)
 
-Volunteer of **Bangpypers** (Bangalore Python users' group) and PyCon India 2021
+Volunteer of [**Bangpypers**](https://bangalore.pythonindia.org/) (Bangalore Python users' group) and [**PyCon India 2021**](https://in.pycon.org/2021/about/)
 
-Global organising team for Sponsorship, Program and Content team and part of Code of Conduct Response team for the **useR! 2021**
+Global organising team for Sponsorship, Program and Content team and part of Code of Conduct Response team for the [**useR! 2021**](https://user2021.r-project.org/about/global-team/)
 
-Facilitator of Asian Cohort of **R4DS book club**
+Facilitator of Asian Cohort of [**R4DS book club**](https://twitter.com/R4DScommunity)
 
-Co-hosted a live Q and A session - Teaching for **rstudio::global(2021)**, chair for Keynote at **useR! 2021**
+Co-hosted a live Q and A session - Teaching for [**rstudio::global(2021)**](https://www.rstudio.com/resources/rstudioglobal-2021/?category_ids=1753-teaching), chair for Keynote at [**useR! 2021**](https://www.youtube.com/watch?v=itIcbhPnAS8)
 
 ## Software packages 
 
-Built **polluchek** | under review Journal of Open Source Software | 2021
+Built [**polluchek**](https://github.com/adithirgis/pollucheck) | under review Journal of Open Source Software | 2021
 
-Maintain **ropenaq** | rOpenSci | 2021 
+Maintenance of [**ropenaq**](https://github.com/ropensci/ropenaq) | [rOpenSci](https://ropensci.org/) | 2021 
 
-Built **mmaqshiny** | CRAN, Journal of Open Source Software | 2020
+Built [**mmaqshiny**](https://github.com/meenakshi-kushwaha/mmaqshiny) | CRAN, Journal of Open Source Software | 2020
 
 ## Awards and Honors 
 
-rstudio::global(2021) Diversity Scholar | 2021
+[rstudio::global(2021)](https://www.rstudio.com/conference/) Diversity Scholar | 2021
 
-R@IISA Conference Travel Award | 2019
+[R@IISA](http://r-iisa2019.rbind.io/) Conference Travel Award | 2019
 
-Primer in Methods and Ecological Research (PRiMER) Sponsored by ILK Labs | 2019
+Primer in Methods and Ecological Research ([PRiMER](https://gubbilabs.in/courses/media-gallery/detail/8/62)) Sponsored by ILK Labs | 2019
 
 For undergraduate degree at Sri Sathya Sai Institute of Higher Learning received Gold Medal | 2016
 
-Indian Academy of Sciences Summer Research Fellowship Program | 2015
+Indian Academy of Sciences [Summer Research Fellowship Program](https://webjapps.ias.ac.in/fellowship2021/lists/result.jsp) | 2015
