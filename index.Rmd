@@ -45,7 +45,7 @@ B.Sc in Physics | 2013 - 2016
 
 Peer reviewer for [**Journal of Open-Source Software**](https://joss.theoj.org/papers/reviewed_by/@adithirgis)
 
-Moderating and conducting Incubator on Strategies to build a strong Asian R community at [**useR! 2021**](https://user2021.r-project.org/join/)
+Moderating and facilitating Incubator on Strategies to build a strong Asian R community at [**useR! 2021**](https://user2021.r-project.org/join/)
 
 Founder and Co-organiser of [**R-Ladies Bangalore**](https://twitter.com/RLadiesBLR)
 
